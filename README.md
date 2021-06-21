@@ -6,7 +6,7 @@ A group of libraries that requited for every project
 
 Library that simplifies a usage and creation of a custom views anf reusable elements for `UITableView` and `UIColectionView`
 
-### [TinyConstraints](https://github.com/roberthein/TinyConstraint)
+### [TinyConstraints](https://github.com/roberthein/TinyConstraints)
 
 Library to simplify creation and usage of a constraints from code. Provides a list of useful methods from the box
 
