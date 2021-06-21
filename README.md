@@ -17,3 +17,7 @@ Linter for swift code
 ### [NerdzLibs](https://github.com/nerdzlab/NerdzLibs)
 
 A container for all NERDZ LAB libraries like `NerdzUtils`, `NerdzNetworking`, `NerdzDate`, `NerdzInject`, `NerdzEvents`, etc.
+
+### [UAObfuscatedString](https://github.com/nerdzlab/Nerdz-UAObfuscatedString)
+
+A library that allow easy obfuscation of the strings
