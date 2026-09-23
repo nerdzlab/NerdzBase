@@ -1,5 +1,12 @@
 # NerdzBase
 
+> ## This repository is archived
+>
+> `NerdzBase` is no longer maintained and is kept as a public archive, read only, for reference only.
+> There will be no further releases, bug fixes, or security updates, and issues and pull requests are closed.
+>
+> Add the libraries you need directly from their own repositories instead of depending on this aggregate package.
+
 A group of libraries that requited for every project
 
 ### [Reusable](https://github.com/AliSoftware/Reusable)
